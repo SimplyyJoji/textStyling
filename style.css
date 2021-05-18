@@ -1,0 +1,29 @@
+* {
+  margin: 10px;
+}
+h1 {
+  font-size: 4rem;
+  color: white;
+  background-color: black;
+
+}
+
+span {
+  color: turquoise;
+}
+
+h2 {
+  font-size: 3rem;
+background-color: purple;
+color: white;
+text-align: center;
+font-style: italic;
+}
+
+h3 {
+background-color: skyblue;
+text-align: right;
+}
+a {
+  font-size: 2rem;
+}
